@@ -55,4 +55,28 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 | reservation_status_date | Date of the last reservation status update |
 
 
+## Project Stakeholders
+**Internal** 
+- Management Team
+- Operation Team
+- Marketing Team
+- Customer Service Team
+**External**
+- Guest
+- Travel Agencies
+- Suppliers
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
