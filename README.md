@@ -13,7 +13,8 @@ To analyze hotel booking data to derive insights that can help optimize operatio
 #### **For More Info.**
 
 ## Problem Statement
-**Problem:** Elite Hotels International needs to optimize its booking patterns and enhance customer satisfaction to maintain a competitive edge in the hospitality industry.
+**Problem:** 
+Elite Hotels International needs to optimize its booking patterns and enhance customer satisfaction to maintain a competitive edge in the hospitality industry.
 
 **Importance:** Solving this problem will help in:
 - Improving operational efficiency.
