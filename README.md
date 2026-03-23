@@ -84,15 +84,13 @@ The analysis was conducted in sql using MySQL workbench software.Here are the so
 - Optimized the guest service by analysing room_type demands, guest behavior and number of special request.
 
 ## Key Highlights
-1. **Booking Season** Most of the guest prefered to arrive into mid season (April-May) as hotel are fully occupied.
-2. **Fulillment** 95% of total hotel bookings are fulfilled through agent.
-3. **Booking Partners** Online and offlne travel agency are among the top booking partners as they collectively hold 62% of total_bookings.
-4. **Customer Demographic** Most of the customer (around 80%) choose price over convinence, opted basic meal package and generated low adr.
-5. **Guest Behavior** 
-6.  
-7. 
-8. 
-9. 
+1. **Booking Season-** Most of the guest prefered to arrive into mid season (April-May) as hotel are fully occupied.
+2. **Fulillment-** 95% of total hotel bookings are fulfilled through agent.
+3. **Booking Partners-** Online and offlne travel agency are among the top booking partners as they collectively hold 62% of total_bookings.
+4. **Customer Demographic-** Most of the customer (around 80%) choose price over convinence, opted basic meal package and generated low adr.
+5. **Guest Behavior-** Guest shows disatisfaction toward hotel hospitaplity and managemnet, rooms were not alloted properly and their booking confirmation is also low
+6. **Cancelation Rate-** Almost Half of bookings were cancelled before arrival.
+   
 
 
 
