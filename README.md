@@ -9,6 +9,7 @@ Elite Hotels International operates multiple properties across diverse regions a
 To analyze hotel booking data to derive insights that can help optimize operations, enhance guest experiences, and improve overall revenue performance.
 
 #### **For More Info.**
+https://docs.google.com/document/d/17kMxIOfeymPM45g__YSJxNusQ_cFrg_PIgdVxAhmgNI/edit?tab=t.0#heading=h.2e9cnlobwl8m
 
 ## Problem Statement
 **Problem:** 
