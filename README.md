@@ -19,7 +19,7 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 - Enhancing guest satisfaction and loyalty.
 - Increasing revenue through better resource allocation and marketing strategies.
 
-## ## Dataset Information  
+## Dataset Information  
 **Source:** [Hotel Booking Demand Dataset – Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 | Column | Description |
 |--------|-------------|
@@ -56,15 +56,24 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 
 
 ## Project Stakeholders
-**Internal** 
+1.**Internal** 
 - Management Team
 - Operation Team
 - Marketing Team
 - Customer Service Team
-**External**
+2.**External**
 - Guest
 - Travel Agencies
 - Suppliers
+
+## Data Cleaning $ Transformation
+Steps that has followed in transfornmation of data are:
+- Handled null and missing values in columns like country, customer_type and market_segemnt.
+- Checked and removed the duplicate bookings made in same time.
+- Update the date column into a proper datetime foramt. 
+- Created the seperate column for arrival_year and month.
+- Created metrics for analysis like: cancelation_rate, total_revenue and room_occupancy
+- Grouped the data by hotel,customer_type and room_type.
   
 
 
