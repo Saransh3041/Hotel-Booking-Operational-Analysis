@@ -75,9 +75,13 @@ Steps that has followed in data transformation are:
 - Created metrics for analysis like: cancelation_rate, total_revenue and room_occupancy
 - Grouped the data by hotel,customer_type and room_type.
   
-## Exploratry Data Analysis(EDA)
-The analysis was conducted in sql using MySQL workbench software.Here is some sample problem that we stated:
-- 
+## Exploratry Data Analysis(EDA) 
+The analysis was conducted in sql using MySQL workbench software.Here are the key analysis that performed:
+- Identify peak booking periods and adjust marketing strategies accordingly.
+- Analysed and compared the repeated and new guest behavior.
+- Identified the peak revenue trend and how it impacted by lead_time, customer_type and maeket_segment
+- Established the relationship between lead_time hotel_type and cancelled_order.
+- Optimized the guest service by analysing room_type demands, guest behavior and number of special request.
 
 
 
