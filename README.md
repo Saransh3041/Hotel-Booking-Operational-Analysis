@@ -55,16 +55,16 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 | reservation_status_date | Date of the last reservation status update |
 
 
-## Project Stakeholders
-1.**Internal** 
-- Management Team
-- Operation Team
+## Project Stakeholders|
+| **Internal**  | **External** |
+|:.....|:.....|
+|- Management Team 
+- Operation Team 
 - Marketing Team
-- Customer Service Team
-2.**External**
-- Guest
+- Customer Service Team - Guest
 - Travel Agencies
 - Suppliers
+ |
 
 ## Data Cleaning $ Transformation
 Steps that has followed in data transformation are:
