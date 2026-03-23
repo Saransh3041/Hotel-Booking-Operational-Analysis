@@ -67,7 +67,7 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 - Suppliers
 
 ## Data Cleaning $ Transformation
-Steps that has followed in transfornmation of data are:
+Steps that has followed in data transformation are:
 - Handled null and missing values in columns like country, customer_type and market_segemnt.
 - Checked and removed the duplicate bookings made in same time.
 - Update the date column into a proper datetime foramt. 
@@ -75,6 +75,10 @@ Steps that has followed in transfornmation of data are:
 - Created metrics for analysis like: cancelation_rate, total_revenue and room_occupancy
 - Grouped the data by hotel,customer_type and room_type.
   
+## Exploratry Data Analysis(EDA)
+The analysis was conducted in sql using MySQL workbench software.Here is some sample problem that we stated:
+- 
+
 
 
 
