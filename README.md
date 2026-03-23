@@ -99,7 +99,9 @@ The analysis was conducted in sql using MySQL workbench software.Here are the so
 This analysis highlights critical operational challenges in hotel bookings, including high agent dependency, seasonal demand peaks, guest dissatisfaction, and elevated cancellation rates. By implementing strategic measures such as diversifying booking channels, improving hospitality standards, and optimizing mid-season pricing, hotels can enhance customer experience and reduce the cancellations. 
 
 ## Autor
-
+Saransh Goyal Email: goyalsaransh61@gmail.com
+LinkedIn: linkedin.com/in/saranshgoyal007
+GitHub: github.com/Saransh3041
 
 
 
