@@ -76,12 +76,23 @@ Steps that has followed in data transformation are:
 - Grouped the data by hotel,customer_type and room_type.
   
 ## Exploratry Data Analysis(EDA) 
-The analysis was conducted in sql using MySQL workbench software.Here are the key analysis that performed:
+The analysis was conducted in sql using MySQL workbench software.Here are the some key analysis that has performed:
 - Identify peak booking periods and adjust marketing strategies accordingly.
 - Analysed and compared the repeated and new guest behavior.
 - Identified the peak revenue trend and how it impacted by lead_time, customer_type and maeket_segment
 - Established the relationship between lead_time hotel_type and cancelled_order.
 - Optimized the guest service by analysing room_type demands, guest behavior and number of special request.
+
+## Key Highlights
+1. **Booking Season** Most of the guest prefered to arrive into mid season (April-May) as hotel are fully occupied.
+2. **Fulillment** 95% of total hotel bookings are fulfilled through agent.
+3. **Booking Partners** Online and offlne travel agency are among the top booking partners as they collectively hold 62% of total_bookings.
+4. **Customer Demographic** Most of the customer (around 80%) choose price over convinence, opted basic meal package and generated low adr.
+5. **Guest Behavior** 
+6.  
+7. 
+8. 
+9. 
 
 
 
