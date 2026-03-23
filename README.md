@@ -56,15 +56,12 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 
 
 ## Project Stakeholders|
-| **Internal**  | **External** |
-|:.....|:.....|
-|- Management Team 
-- Operation Team 
-- Marketing Team
-- Customer Service Team - Guest
-- Travel Agencies
-- Suppliers
- |
+| **Internal**         | **External**       |
+|-----------------------|--------------------|
+| - Management Team     | - Guest            |
+| - Operation Team      | - Travel Agencies  |
+| - Marketing Team      | - Suppliers        |
+| - Customer Service Team |                    |
 
 ## Data Cleaning $ Transformation
 Steps that has followed in data transformation are:
