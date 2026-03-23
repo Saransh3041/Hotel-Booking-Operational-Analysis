@@ -91,8 +91,12 @@ The analysis was conducted in sql using MySQL workbench software.Here are the so
 5. **Guest Behavior-** Guest shows disatisfaction toward hotel hospitaplity and managemnet, rooms were not alloted properly and their booking confirmation is also low
 6. **Cancelation Rate-** Almost Half of bookings were cancelled before arrival.
    
-
-
+## Strategic Recomendations
+1. Introduce dynamic pricing and early-bird offers during April–May to maximize revenue while managing over-occupancy.
+2. Reduce dependency on agents (95% share) by strengthening direct booking platforms and offering loyalty rewards for direct customers.
+3. Strengthen Partnerships with OTAs & Offline Agencies Since they contribute 62% of bookings.
+4. Address dissatisfaction by improving room allocation systems, staff training, and transparent booking confirmations to build trust.
+5. Implement flexible booking policies, pre-arrival engagement (emails, reminders), and targeted offers to minimize the cancellation.
 
 
 
