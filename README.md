@@ -1,7 +1,10 @@
 # Hotel Harmony: Data Insights for Optimized Operations
 ## Project Overview  
+
 **Company:** Elite Hotels International  
+
 **Industry:** Hospitality  
+
 **Scenario:**  
 Elite Hotels International operates multiple properties across diverse regions and is facing challenges in managing booking patterns, cancellations, and customer satisfaction.  This project applies data-driven analysis to identify key trends in hotel bookings, cancellations, and guest preferences to support operational optimization and strategic decision-making.
 
@@ -100,9 +103,11 @@ The analysis was conducted in sql using MySQL workbench software.Here are the so
 This analysis highlights critical operational challenges in hotel bookings, including high agent dependency, seasonal demand peaks, guest dissatisfaction, and elevated cancellation rates. By implementing strategic measures such as diversifying booking channels, improving hospitality standards, and optimizing mid-season pricing, hotels can enhance customer experience and reduce the cancellations. 
 
 ## Autor
-Saransh Goyal Email: goyalsaransh61@gmail.com
-LinkedIn: linkedin.com/in/saranshgoyal007
-GitHub: github.com/Saransh3041
+**Saransh Goyal**  
+**Email:** goyalsaransh61@gmail.com  
+**LinkedIn:** [linkedin.com/in/saranshgoyal007](https://www.linkedin.com/in/saranshgoyal007/)  
+**GitHub:** [github.com/Saransh3041](https://github.com/Saransh3041)
+
 
 
 
