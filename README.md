@@ -55,7 +55,7 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 | reservation_status_date | Date of the last reservation status update |
 
 
-## Project Stakeholders|
+## Project Stakeholders
 | **Internal**         | **External**       |
 |-----------------------|--------------------|
 | - Management Team     | - Guest            |
@@ -63,7 +63,7 @@ Elite Hotels International needs to optimize its booking patterns and enhance cu
 | - Marketing Team      | - Suppliers        |
 | - Customer Service Team |                    |
 
-## Data Cleaning $ Transformation
+## Data Cleaning & Transformation
 Steps that has followed in data transformation are:
 - Handled null and missing values in columns like country, customer_type and market_segemnt.
 - Checked and removed the duplicate bookings made in same time.
@@ -95,6 +95,10 @@ The analysis was conducted in sql using MySQL workbench software.Here are the so
 4. Address dissatisfaction by improving room allocation systems, staff training, and transparent booking confirmations to build trust.
 5. Implement flexible booking policies, pre-arrival engagement (emails, reminders), and targeted offers to minimize the cancellation.
 
+## Conclusion
+This analysis highlights critical operational challenges in hotel bookings, including high agent dependency, seasonal demand peaks, guest dissatisfaction, and elevated cancellation rates. By implementing strategic measures such as diversifying booking channels, improving hospitality standards, and optimizing mid-season pricing, hotels can enhance customer experience and reduce the cancellations. 
+
+## Autor
 
 
 
